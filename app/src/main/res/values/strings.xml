@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Workout Helper</string>
+    <string name="Welcome">Welcome to the Workout Helper!</string>
+    <string name="Workout">Begin a Workout.</string>
+    <string name="Timer">Start a timer for a Custom Workout</string>
+    <string name="About">About this app</string>
+    <string name="Weight">See our recommended Workouts.</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="AboutMe">Workout Helper was created by Michael Coppolino for the CS403 Class. It is a simple app, but I hope it helps you keep fit!</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="Helper">Let me begin the countdown!</string>
+    <string name="countdown">On your mark, Get Set, Go!</string>
+    <string-array name="titles">
+        <item>Home</item>
+        <item>About</item>
+        <item>Timer</item>
+        <item>Workouts</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
