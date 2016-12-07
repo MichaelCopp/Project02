@@ -39,7 +39,7 @@
         android:layout_alignStart="@+id/button"
         android:layout_marginTop="35dp"
         android:textSize="35dp"
-        android:textColor="@color/colorAccent"
+        android:textColor="#FF1493"
         android:id="@+id/textView" />
 
     <Button
@@ -55,9 +55,26 @@
     <ImageView
         android:layout_width="80dp"
         android:layout_height="80dp"
-        android:layout_alignParentBottom="true"
-        android:layout_alignStart="@+id/button3"
         android:src="@drawable/ex1"
-        android:layout_marginBottom="16dp"
-        android:id="@+id/imageView2" />
+        android:id="@+id/imageView2"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/button3" />
+
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@drawable/ex3"
+        android:id="@+id/imageView3"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="10dp"
+        android:layout_alignTop="@+id/imageView4" />
+
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@drawable/ex2"
+        android:id="@+id/imageView4"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
 </RelativeLayout>

@@ -14,13 +14,14 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_marginTop="23dp"
+        android:layout_marginTop="33dp"
         android:text=""
         android:id="@+id/textDescription" />
+
     <TextView
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_marginTop="88dp"
+        android:layout_height="379dp"
+        android:layout_marginTop="98dp"
         android:textStyle="bold"
         android:text=""
         android:id="@+id/textLength" />
